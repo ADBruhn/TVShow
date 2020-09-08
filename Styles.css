@@ -1,16 +1,36 @@
 h1 {
     font-size: 2.0m;
+    font-weight: bold;
+    font-style: oblique;
     background: red;
     color: white;
     border-style: solid;
     border-color: black;
-    border-width: 10.0m;
+    border-width: 5px;
+    margin: 5px 150px;
+    text-align: center;
+    letter-spacing: 20p;
+    
+  
 }
 
 p {
+    
+
+
    
 }
 
 h2 {
+    text-indent: 1in;
 
 }
+
+a {
+    text-decoration: underline overline;
+}
+
+img {
+    border-color: black;
+}
+
